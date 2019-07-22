@@ -1,4 +1,4 @@
-# OS File Exploration and Manipulation
+# OS File Exploration Application
 The OS application will allow users to perform the following:
 *  Locate, move, or copy a single direcorty or file to a target location
 * Locate, move, or copy all instances of file in a given directory to a target location
